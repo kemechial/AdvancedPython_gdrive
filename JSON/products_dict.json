@@ -1,0 +1,32 @@
+{
+  "1": {
+    "title": "Phone",
+    "price": 10000,
+    "rating": 3.6,
+    "category": "electronics",
+    "color": [
+      "red",
+      "blue"
+    ]
+  },
+  "2": {
+    "title": "Charger",
+    "price": 20000,
+    "rating": 3.9,
+    "category": "electronics",
+    "color": [
+      "yellow",
+      "green"
+    ]
+  },
+  "4": {
+    "title": "Coffee",
+    "price": 205400,
+    "rating": 5.2,
+    "category": "electronics",
+    "color": [
+      "scarlet",
+      "magenta"
+    ]
+  }
+}
